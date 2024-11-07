@@ -1,0 +1,39 @@
+
+{
+  "aplikasi": {
+    "G1": {
+      "id": 0,
+      "package": "com.tencent.ig",
+      "status": "Live",
+      "title": "PUBG GLOBAL",
+      "version": "3.0.0"
+    },
+    "G2": {
+      "id": 1,
+      "package": "com.pubg.krmobile",
+      "status": "Live",
+      "title": "PUBG KOREA",
+      "version": "3.0.0"
+    },
+    "G3": {
+      "id": 2,
+      "package": "com.vng.pubgmobile",
+      "status": "Live",
+      "title": "PUBG VIETNAM",
+      "version": "3.0.0"
+    },
+    "G4": {
+      "id": 3,
+      "package": "com.rekoo.pubgm",
+      "status": "Live",
+      "title": "PUBG TAIWAN",
+      "version": "3.0.0"
+    }
+  },
+  "PUBGM": {
+    "gamename": "PUBGM",
+    "name": "libpubgm.so",
+    "url": "https://github.com/Yousef-21-21/Aodloader/releases/download/Gg/libpubgm.so",
+    "version": 1
+  }
+}
